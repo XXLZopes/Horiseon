@@ -9,7 +9,7 @@
 
 https://xxlzopes.github.io/Horiseon/
 
-./assets/images/Screen Shot 2020-10-10 at 2.08.09 PM.png
-./assets/images/Screen Shot 2020-10-10 at 2.08.17 PM.png
+./assets/images/ScreenShot1.png
+./assets/images/ScreenShot2.png
 
 
