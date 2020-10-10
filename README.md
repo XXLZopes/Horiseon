@@ -6,3 +6,10 @@
 3. Added ault attributes to images for screen readers
 4. Made sure heading attributes fell in sequential order
 5. Added a concise, descriptive title
+
+https://xxlzopes.github.io/Horiseon/
+
+./assets/images/Screen Shot 2020-10-10 at 2.08.09 PM.png
+./assets/images/Screen Shot 2020-10-10 at 2.08.17 PM.png
+
+
